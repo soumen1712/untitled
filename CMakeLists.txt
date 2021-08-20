@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled  soumen.cpp "cmake-build-debug/SIMPLE INS.c")
+add_executable(untitled  soumen.cpp)

@@ -4,6 +4,7 @@
 using namespace std;
 int data=0;
 class Test{
+
 public:
     Test() { data++;}
     ~Test() { data++;}
